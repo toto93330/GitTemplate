@@ -35,8 +35,9 @@
    </li>
    </ul><br>
 
+<p align="center"><a href="./cv.pdf"><img width="60%" src="./bouton-cv.png" /></a></p>
 
-<p align="left"><a href="http://anthonyalves.fr/"><img width="20%" src="./mes-stats.png" /></a></p><br>
+<br><p align="left"><a href="http://anthonyalves.fr/"><img width="20%" src="./mes-stats.png" /></a></p><br>
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto93330&theme=github_dark&show_icons=true)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto93330&layout=compact&theme=github_dark)](https://github.com/toto93330/Snowtricks)
@@ -54,12 +55,9 @@
 <a><img alt="for-the-badge" src="https://img.shields.io/badge/BOOTSTRAP-333537?style=for-the-badge&logo=bootstrap&logoColor=2293f2" style="min-width: 10%;"></a>
 <a><img alt="for-the-badge" src="https://img.shields.io/badge/UNITY-333537?style=for-the-badge&logo=unity&logoColor=2293f2" style="min-width: 10%;"></a>
 
+<br><p align="left"><a href="http://anthonyalves.fr/"><img width="45%" src="./mes-diplomes-et-certif.png" /></a></p><br>
 
-<!--
-
-Liens Utile:
-
-https://icon-icons.com/fr/pack/Windows-8-Icon/37&page=12
-
-
--->
+### MES DIPLOMES
+<ul>
+   <li>Développeur d'application - PHP / Symfony</li>
+</ul>
