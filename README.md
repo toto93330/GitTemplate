@@ -3,10 +3,44 @@
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./logo.png" /></a></p>
 
-<p align="left"><a href="https://anuraghazra.github.io"><img width="80%" src="./mes-stats.png" /></a></p>
+<p align="left"><a href="https://anuraghazra.github.io"><img width="20%" src="./mon-profile.png" /></a></p><br>
+
+<ul>
+   <li>
+      Nom : Alves
+   </li>
+   <li>
+      Prenom : Anthony
+   </li>
+   <li>
+      Age : 31 ans
+   </li>
+   <li>
+      Job : Développeur Web Back-end PHP/SYMFONY
+   </li>
+   <li>
+      Disponible à l'embauche : ✔️
+   </li>
+   <li>
+      Site Web : <a href="http://anthonyalves.fr/"> Mon site Web </a>
+   </li>
+   <li>
+      Linkedin : <a href="https://www.linkedin.com/in/anthonyalves93330/"> Mon linkedin </a>
+   </li>
+   <li>
+      instagram : <a href="https://www.instagram.com/pitimatsu/"> Mon Instagram </a>
+   </li>
+   <li>
+      Twitter : <a href="https://twitter.com/AnthonyWebCoder"> Mon Twitter </a>
+   </li>
+   </ul><br>
+
+
+<p align="left"><a href="https://anuraghazra.github.io"><img width="20%" src="./mes-stats.png" /></a></p><br>
+
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto93330&theme=github_dark&show_icons=true)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto93330&layout=compact&theme=github_dark)](https://github.com/toto93330/Snowtricks)<br>
-<p align="left"><a href="https://anuraghazra.github.io"><img width="80%" src="./mon-profile.png" /></a></p>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto93330&layout=compact&theme=github_dark)](https://github.com/toto93330/Snowtricks)
+   
 
   ## ⚡ Technical Skills:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
