@@ -58,6 +58,23 @@
 <br><p align="left"><a href="http://anthonyalves.fr/"><img width="45%" src="./mes-diplomes-et-certif.png" /></a></p><br>
 
 ### MES DIPLOMES
-<ul>
-   <li>Développeur d'application - PHP / Symfony</li>
-</ul>
+   
+   <br><ul>
+      <li><a href="https://openclassrooms.com/">Développeur d'application - PHP / Symfony (BAC +4)</a></li>
+      <li><a href="https://www.lyceecugnot.fr/">Bac Technologique (STI)</a></li>
+      <li><a href="https://monod-gagny.webcollege.seinesaintdenis.fr/">Brevet des Collèges</a></li>
+   </ul><br>
+   
+### MES CERTIFICATIONS
+
+   <br><ul>
+      <li><a href="">Certification : PHP ET MYSQL (OPENCLASSROOMS)</a></li>
+      <li><a href="">Certification : HTML5 ET CSS3 (OPENCLASSROOMS)</a></li>
+      <li><a href="">Certification : POO EN PHP (UDEMY)</a></li>
+      <li><a href="">Certification : Marketing Digital et Réseaux Sociaux (UDEMY)</a></li>
+      <li><a href="">Certification : Unity5 (UDEMY)</a></li>
+      <li><a href="">Certification : Git Github (UDEMY)</a></li>
+      <li><a href="">Certification : BOOTSTRAP 4 (UDEMY)</a></li>
+      <li><a href="">Certification : MVC AVEC PHP (OPENCLASSROOMS)</a></li>
+   </ul><br>
+
