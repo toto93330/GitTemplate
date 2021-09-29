@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./logo.png" /></a></p>
 
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto93330&theme=github_dark&show_icons=true)
