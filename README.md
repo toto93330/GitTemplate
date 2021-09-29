@@ -1,9 +1,9 @@
 
 
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./logo.png" /></a></p>
+<p align="center"><a href="http://anthonyalves.fr/"><img width="80%" src="./logo.png" /></a></p>
 
-<p align="left"><a href="https://anuraghazra.github.io"><img width="20%" src="./mon-profile.png" /></a></p><br>
+<p align="left"><a href="http://anthonyalves.fr/"><img width="20%" src="./mon-profile.png" /></a></p><br>
 
 <ul>
    <li>
@@ -36,29 +36,23 @@
    </ul><br>
 
 
-<p align="left"><a href="https://anuraghazra.github.io"><img width="20%" src="./mes-stats.png" /></a></p><br>
+<p align="left"><a href="http://anthonyalves.fr/"><img width="20%" src="./mes-stats.png" /></a></p><br>
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto93330&theme=github_dark&show_icons=true)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto93330&layout=compact&theme=github_dark)](https://github.com/toto93330/Snowtricks)
    
 
-  ## ⚡ Technical Skills:
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br><p align="left"><a href="http://anthonyalves.fr/"><img width="30%" src="./competences.png" /></a></p><br>
 
+<a><img alt="for-the-badge" src="https://img.shields.io/badge/PHP-333537?style=for-the-badge&logo=php&logoColor=2293f2" style="min-width: 10%;"></a>
+<a><img alt="for-the-badge" src="https://img.shields.io/badge/MYSQL-333537?style=for-the-badge&logo=mysql&logoColor=2293f2" style="min-width: 10%;"></a>
+<a><img alt="for-the-badge" src="https://img.shields.io/badge/JAVASCRIPT-333537?style=for-the-badge&logo=javascript&logoColor=2293f2" style="min-width: 10%;"></a>
+<a><img alt="for-the-badge" src="https://img.shields.io/badge/CSS3-333537?style=for-the-badge&logo=css3&logoColor=2293f2" style="min-width: 10%;"></a>
+<a><img alt="for-the-badge" src="https://img.shields.io/badge/HTML5-333537?style=for-the-badge&logo=html5&logoColor=2293f2" style="min-width: 10%;"></a>
+<a><img alt="for-the-badge" src="https://img.shields.io/badge/SYMFONY-333537?style=for-the-badge&logo=symfony&logoColor=2293f2" style="min-width: 10%;"></a>
+<a><img alt="for-the-badge" src="https://img.shields.io/badge/REACT-333537?style=for-the-badge&logo=react&logoColor=2293f2" style="min-width: 10%;"></a>
+<a><img alt="for-the-badge" src="https://img.shields.io/badge/BOOTSTRAP-333537?style=for-the-badge&logo=bootstrap&logoColor=2293f2" style="min-width: 10%;"></a>
+<a><img alt="for-the-badge" src="https://img.shields.io/badge/UNITY-333537?style=for-the-badge&logo=unity&logoColor=2293f2" style="min-width: 10%;"></a>
 
 
 <!--
