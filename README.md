@@ -1,10 +1,12 @@
 
+
+
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./logo.png" /></a></p>
 
-
+<p align="left"><a href="https://anuraghazra.github.io"><img width="80%" src="./mes-stats.png" /></a></p>
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto93330&theme=github_dark&show_icons=true)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto93330&layout=compact&theme=github_dark)](https://github.com/toto93330/Snowtricks)<br>
-
+<p align="left"><a href="https://anuraghazra.github.io"><img width="80%" src="./mon-profile.png" /></a></p>
 
   ## ⚡ Technical Skills:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,3 +24,14 @@
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+<!--
+
+Liens Utile:
+
+https://icon-icons.com/fr/pack/Windows-8-Icon/37&page=12
+
+
+-->
