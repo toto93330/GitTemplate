@@ -61,6 +61,7 @@
    
    <br><ul>
       <li><a href="https://openclassrooms.com/">Développeur d'application - PHP / Symfony (BAC +4)</a></li>
+      <li><a href="https://openclassrooms.com/">Chef de projet multimédia (BAC +4)</a></li>
       <li><a href="https://www.lyceecugnot.fr/">Bac Technologique (STI)</a></li>
       <li><a href="https://monod-gagny.webcollege.seinesaintdenis.fr/">Brevet des Collèges</a></li>
    </ul><br>
