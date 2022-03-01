@@ -35,7 +35,7 @@
    </li>
    </ul><br>
 
-<p align="center"><a href="./cv.pdf"><img width="60%" src="./bouton-cv.png" /></a></p>
+<p align="center"><a href="https://anthonyalves.fr/upload/cv/cv.pdf"><img width="60%" src="./bouton-cv.png" /></a></p>
 
 <br><p align="left"><a href="http://anthonyalves.fr/"><img width="20%" src="./mes-stats.png" /></a></p><br>
 
